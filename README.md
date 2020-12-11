@@ -23,4 +23,4 @@ WebGL로 배포하였습니다.
 ## 시연영상
 [![시연영상](https://img.youtube.com/vi/yndI-an9NUE/0.jpg)](https://youtu.be/yndI-an9NUE)
 
-클릭하면 시연영상을 볼 수 있습니다. 
+위 이미지를 클릭하면 시연영상을 볼 수 있습니다. 
